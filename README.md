@@ -1,0 +1,2 @@
+# sambaserver
+sambaserver for homelab
